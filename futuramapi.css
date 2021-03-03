@@ -1,0 +1,12 @@
+body{
+    background-image: url(https://mir-s3-cdn-cf.behance.net/project_modules/disp/92834c59174875.5a17f94aabc68.jpg);
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    @font-face {
+        font-family: fr-title;
+        src: url(cosas/futuramaFont/fr-title.ttf);
+    }
+    font-family: ;
+}
