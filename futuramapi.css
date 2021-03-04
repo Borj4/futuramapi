@@ -5,8 +5,8 @@ body{
     flex-direction: column;
     align-items: center;
     @font-face {
-        font-family: fr-title;
-        src: url(cosas/futuramaFont/fr-title.ttf);
+        font-family: 'futurama';
+        src: url('fr-title.ttf');
     }
-    font-family: ;
+    font-family: futurama;
 }
