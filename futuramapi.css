@@ -1,4 +1,6 @@
 body{
+    color: black;
+    text-shadow: yellowgreen;
     background-image: url(https://mir-s3-cdn-cf.behance.net/project_modules/disp/92834c59174875.5a17f94aabc68.jpg);
     background-size: cover;
     display: flex;
@@ -9,4 +11,29 @@ body{
         src: url('fr-title.ttf');
     }
     font-family: futurama;
+}
+#caja:hover{
+    cursor: pointer;
+}
+#picture{
+    margin: 20px;
+    display: flex;
+    flex-direction: column;
+    color: whitesmoke;
+}
+#maestro{
+    display: flex;
+    flex-direction: row;
+    background-color: (rgba(0, 0, 0, 0.3));
+    border-radius: 15px;
+}
+#div1{
+    background-color: (rgba(0, 0, 0, 0.3));
+    text-align: left;
+    width: 30%;
+}
+#div2{
+    background-color: (rgba(0, 0, 0, 0.3));
+    text-align: left;
+    width: 70%;
 }
